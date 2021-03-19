@@ -1,0 +1,132 @@
+body{
+    background-color: rgb(244, 244, 248);
+}
+
+#container{
+   
+    border: 1px solid black none;
+    margin-top: 208px;
+    margin-right: 49%;
+    margin-left: 13%;
+    
+}
+
+.texto{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    color: #1d1d1d;  
+    position: relative; 
+    bottom: 8px;
+    text-align:left;
+}
+
+#login{
+   
+    background-color: white;
+    border: 1px solid black none ;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    position: relative;
+    top: -273px;
+    margin-left: 756px;
+    margin-right: 182px;
+    padding-bottom: 15px;
+}
+
+#email-e-senha{
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.senha{
+    margin-top: 10px;
+
+}
+.imputpass{
+    font-size: 17px;
+    width: 340px;
+    padding-top: 14px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+}
+
+.email{
+    font-size: 17px;
+    width: 340px;
+    padding-top: 14px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    
+}
+
+.botao{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 360px;
+    border-radius: 6px;
+    margin-top: 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover{
+    background-color: #1e71dd;
+    
+}
+
+.esqueceuasenha{
+    border: 1px solid red none;
+    color: #1877f2;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 120px; 
+    
+}
+
+.detalhe{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+
+.criarconta{
+    font-weight: bold;
+    color: white;
+    background-color: rgb(54, 167, 54);
+    text-decoration: none;
+    border: 1px solid red none;
+    border-radius: 6px;
+    font-size: 19px;
+    line-height: 48px;
+    padding: 0 16px;
+    margin-left: 100px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+#rodape{
+    font-size: 16px;
+    border: 1px solid red none;
+    margin-left: 760px;
+    margin-right: 170px;
+    position: relative;
+    bottom: 250px;
+}
+
+.text{
+    color: black;
+    text-decoration: none;
+}
